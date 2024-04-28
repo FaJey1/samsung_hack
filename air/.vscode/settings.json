@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "new": "cpp",
+        "vector": "cpp",
+        "system_error": "cpp"
+    }
+}
